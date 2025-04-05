@@ -1,6 +1,6 @@
 # Problem statements solution of Accoknox india private limited technical round
 
-1.Problem Statement 1:
+# 1.Problem Statement 1:
 
 # 📄 Product Requirement and Low-Fidelity Wireframes
 
@@ -63,7 +63,7 @@ The wireframes illustrate the following UI components in grayscale:
 - Image metadata (e.g., name, version).
 - Table of vulnerabilities:
 
-2. Problem Statement 2:
+# 2. Problem Statement 2:
 
 # 🔍 Kubernetes Security Scan
 
@@ -97,7 +97,7 @@ This project sets up a **local Kubernetes cluster** and performs a **security sc
 | OS | Windows (WSL) |
 | Output Format | JSON |
 
-3. Problem Statement 3:
+# 3. Problem Statement 3:
   
 # 🕒 GoLang Web App: Date & Time + K8s Deployment
 
